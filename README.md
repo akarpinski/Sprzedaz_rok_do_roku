@@ -1,0 +1,1 @@
+# Sprzedaz_rok_do_roku
