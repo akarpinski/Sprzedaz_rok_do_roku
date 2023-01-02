@@ -7,6 +7,7 @@ Na narzędziu Power BI Desktop.
 
 #### Etapy analizy:
 <ol>
-  <li>Rozkład sprzedaży (na słupkach)  rok do roku wg miesięcy.</li>
+  <li>Rozkład sprzedaży (na słupkach) rok do roku wg miesięcy.</li>
   <li>Sprzedaż rok do roku (wartość procentową). Analiza z wykorzystaniem drążenia danych.</li>
+  <li>Obszaru sprzedaży (wartość sprzedaży i zysk) wg kryteriów geograficznych, czyli na mapie.</li>
 </ol>
