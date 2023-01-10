@@ -12,4 +12,5 @@ Na narzędziu Power BI Desktop.
   <li>Obszar sprzedaży (wartość sprzedaży i zysk) wg kryteriów geograficznych, czyli na mapie.</li>
   <li>Wykrywanie klastrów (grupy o podobnych wartościach). </br>
   Analiza wartości zamówień w relacji do zysku.</li>
+  <li>Wykres bąbelkowy (animowany!) do analizy sprzedaży i zysku year-to-date.</li>
 </ol>
