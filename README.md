@@ -9,6 +9,8 @@ Na narzędziu Power BI Desktop.
 <ol>
   <li>Rozkład sprzedaży (na słupkach) rok do roku wg miesięcy.</li>
   <li>Sprzedaż rok do roku (wartość procentową). Analiza z wykorzystaniem drążenia danych.</li>
-  <li>Obszaru sprzedaży (wartość sprzedaży i zysk) wg kryteriów geograficznych, czyli na mapie.</li>
-  <li>Wykrywanie klastrów (grupy o podobnych wartościach). Analiza wartości zamówień w relacji do zysku.</li>
+  <li>Obszar sprzedaży (wartość sprzedaży i zysk) wg kryteriów geograficznych, czyli na mapie.</li>
+  <li>Wykrywanie klastrów (grupy o podobnych wartościach). </br>
+  Analiza wartości zamówień w relacji do zysku.</li>
+  <li>Wykres bąbelkowy (animowany!) do analizy sprzedaży i zysku year-to-date (postęp sprzedaży).</li>
 </ol>
